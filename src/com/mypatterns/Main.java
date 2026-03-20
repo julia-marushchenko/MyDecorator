@@ -1,5 +1,5 @@
 /**
- *  Java program with realization Decorator pattern with realization interface List.
+ *  Java program with realization Decorator pattern with implementation interface List.
  */
 
 package com.mypatterns;
